@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "longDescription": {
+                "ru": "Василь Владимирович Быков (19 июня 1924, д. бычки, Ушачский район — 22 июня 2003, д. Боровляны — Минский район, Беларусь) - белорусский и советский писатель и общественный деятель, участник Великой Отечественной войны, капитан. Народный писатель Беларуси. Большинство произведений-повести, действие которых происходит во время Великой Отечественной войны и в которых показан моральный выбор человека в наиболее драматические моменты жизни.",
+                "en": "Vasil Vladimirovich Bykov (June 19, 1924, Bychki village, Ushachsky district — June 22, 2003, Borovlyany village, Minsk district, Belarus) — Belarusian and Soviet writer and public figure, participant of the Great Patriotic War, captain. People's Writer of Belarus. Most of the works are novels set during the Great Patriotic War and which show the moral choice of a person in the most dramatic moments of life."
+            },
+            "bio": [
+                {
+                    "date": "19.05.1924",
+                    "title": {
+                        "ru": "Рождение",
+                        "en": "Childhood"
+                    },
+                    "text": {
+                        "ru": "Родился в крестьянской семье. С детства увлекался рисованием. В 1939 году окончил 8 классов Кублицкой средней школы, поступил на скульптурное отделение Витебского художественного училища. Однако осенью 1940 года в связи с ухудшением материального положения семьи и отменой государственных стипендий вынужден был оставить учебу. Поступил в Витебскую школу ФЗН № 5, где учился до мая 1941 года. В июне 1941 года экстерном сдал экзамены за десятый класс.",
+                        "en": "He was born in a peasant family. Since childhood, he was fond of drawing. In 1939, he graduated from the 8th grade of the Kublitsky Secondary School, entered the sculpture department of the Vitebsk Art School. However, in the fall of 1940, due to the deterioration of the family's financial situation and the cancellation of state scholarships, he was forced to leave his studies. He entered the Vitebsk School of the Federal Medical School No. 5, where he studied until May 1941. In June 1941, he passed the exams for the tenth grade as an external student."
+                    }
+                },
+                {
+                    "date": "1941-1945",
+                    "title": {
+                        "ru": "Война",
+                        "en": "War"
+                    },
+                    "text": {
+                        "ru": "Был мобилизован на оборонительные работы. В качестве бойца инженерного батальона строил различные военные объекты от Гомеля до Воронежа. Зимой 1941-1942 гг. жил на В. Салтыковка (руск.) бел. и в г. Аткарске Саратовской области, где учился в железнодорожной школе. Летом 1942 года был призван в Красную армию, окончил Саратовское пехотное училище (из 80 выпускников в войну уцелело только четверо). Осенью 1943 года присвоено звание младшего лейтенанта. Воевал на 2-м и 3-м Украинских фронтах. Участвовал в боях за Кривой Рог, Александрию, Знамьянку.",
+                        "en": "He was mobilized for defensive work. As a soldier of the engineering battalion, he built various military facilities from Gomel to Voronezh. In the winter of 1941-1942, he lived in the village of Saltykovka (Rus.) bel. and in the city of Atkarsk, Saratov region, where he studied at a railway school. In the summer of 1942, he was drafted into the Red Army, graduated from the Saratov Infantry School (only four of the 80 graduates survived the war). In the fall of 1943, he was promoted to the rank of second lieutenant. He fought on the 2nd and 3rd Ukrainian fronts. He participated in the battles for Kryvyi Rih, Alexandria, and Znamyanka."
+                    }
+                },
+                {
+                    "date": "1945-2003",
+                    "title": {
+                        "ru": "Творческая деятельность",
+                        "en": "Creative activity"
+                    },
+                    "text": {
+                        "ru": "После демобилизации В. Быков жил в Гродно (с 1947), работал художником в гродненских мастерских, в редакции Областной газеты \"Гродненская правда\" (1947-1949). В 1949-1955 годах вновь служил в Советской Армии. Окончательно демобилизовавшись (майор запаса), работал литературным сотрудником, литературным консультантом газеты «Гродненская правда» (1956-1972).",
+                        "en": "After demobilization, V. Bykov lived in Hrodna (since 1947), worked as an artist in Hrodna workshops, in the editorial office of the Regional newspaper \"Hrodna Pravda\" (1947-1949). In 1949-1955, he again served in the Soviet Army. Finally demobilized (reserve major), he worked as a literary employee, literary consultant of the newspaper \"Hrodna Pravda\" (1956-1972)."
+                    }
+                },
+                {
+                    "date": "22.05.2003",
+                    "title": {
+                        "ru": "Смерть",
+                        "en": "Death"
+                    },
+                    "text": {   
+                        "ru": "Умер 22 июня 2003 года в 20 часов 30 минут в реанимационном отделении онкологической больницы в Боровлянах, под Минском.",
+                        "en": "He died on June 22, 2003 at 20: 30 in the intensive care unit of the cancer hospital in Borovlyany, near Minsk."
+                    }
+                }
+            ],
+            "photos": [
+                "https://pbs.twimg.com/media/EX4gB1TWsAEfxnF.jpg:large",
+                "https://www.ost-kult.grodno.by/wp-content/uploads/2021/03/Быкаў-Пакахай.jpeg",
+                "https://chitatel.by/storage/thumbs/08/h1001_w1001_08e77263c654260a679c47bdf746d273.jpg"
+            ],
+            "video": "RvAjUQU0Vh8",
+            "location": "!1m18!1m12!1m3!1d10457.102784814906!2d28.378616503689862!3d55.163184421193854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46c4b0ef14cf88d1%3A0x9c9158da345cd0b3!2sBychki!5e0!3m2!1sen!2sby!4v1621796662519!5m2!1sen!2sby"
+        },
+        {
+            "id": 1,
+            "longDescription": {
+                "ru": "Янка Брыль, наст. Иван Антонович Брыль (4 августа 1917, Одесса — 25 июля 2006) - белорусский писатель. Народный писатель БССР (1981).",
+                "en": "Janka Bryl, Ivan Antonavich Bryl (4 June 1917, Adesa — 25 July 2006) — Belarusian writer. Narodny pismennik BSSR (1981)."
+            },
+            "bio": [
+                {
+                    "date": "22.06.1917",
+                    "title": {
+                        "ru": "Рождение",
+                        "en": "Birth"
+                    },
+                    "text" : {
+                        "ru": "Родился в Одессе в семье железнодорожника Антона Даниловича Брыля. В 1922 вместе с родителями вернулся на их родину, в деревню Загорье (Польша, ныне Кореличский район, Гродненская область)[2]. В 1931 г. Брыль окончил польскую семилетку и поступил в Новогрудскую гимназию, но не смог учиться из-за материальных трудностей.",
+                        "en": "He was born in Odessa in the family of railway worker Anton Danilovich Bryl. In 1922, together with his parents, he returned to their homeland, to the village of Zagorje (Poland, now Korelich district, Grodno region) [2]. In 1931, Bryl graduated from the Polish seven-year school and entered the Novogrudok Gymnasium, but was unable to study due to financial difficulties."
+                    }
+                },
+                {
+                    "date": "1941-1945",
+                    "title": {
+                        "ru": "Война",
+                        "en": "War"
+                    },
+                    "text" : {
+                        "ru": "После начала II Мировой войны, в сентябре того же года попал под Гдыней в немецкий плен, в 1941 убежал, вернулся на Беларусь и присоединился к партизанам[2]. В 1942 году Е. Брыль стал связующим партизанской бригады имени Жукова Барановичского соединения, а в 1944 году — разведчиком партизанской бригады «Комсомолец». Редактировал газету \"Знамя свободы\" Мирского подпольного райкома партии и сатирический листок \"партизанское жиголо\".",
+                        "en": "After the outbreak of World War II, in September of the same year, he was captured by the Germans near Gdynia, escaped in 1941, returned to Belarus and joined the partisans[2]. In 1942, E. Bryl became a liaison of the Zhukov partisan brigade of the Baranovichi formation, and in 1944 — a scout of the Komsomolets partisan brigade. He edited the newspaper \"Banner of Freedom\" of the Mir underground district party committee and the satirical leaflet \"partisan gigolo\"."
+                    }
+                },
+                {
+                    "date": "1945-2006",
+                    "title": {
+                        "ru": "Творческся деятельность",
+                        "en": "Creative activity"
+                    },
+                    "text" : {
+                        "ru": "По освобождению Беларуси работал редактором районной газеты в г. п. Мир, литературным сотрудником газеты-плаката \"раздавим фашистский час\", заведовал отделом редакции журнала \"Вожык\". В разные годы Е. Брыль был заместителем редактора журналов \"Маладосць\" и \"Пламя\", работал редактором государственного издательства Беларуси, был секретарем правления Союза писателей БССР, вел активную работу по укреплению связей белорусской литературы с литературами народов СССР и стран социалистического содружества.",
+                        "en": "After the liberation of Belarus, he worked as an editor of a district newspaper in the town of Mir, a literary employee of the poster newspaper \"crush the Fascist hour\", and headed the editorial department of the magazine \"Vozhyk\". In different years, E. Bryl was the deputy editor of the magazines \"Maladoc\" and \"Flame\", worked as an editor of the state publishing house of Belarus, was the secretary of the board of the Union of Writers of the BSSR, actively worked to strengthen the ties of Belarusian literature with the literatures of the peoples of the USSR and the countries of the socialist commonwealth."
+                    }
+                },
+                {
+                    "date": "25.06.2006",
+                    "title": {
+                        "ru": "Смерть",
+                        "en": "Death"
+                    },
+                    "text" : {
+                        "ru": "Умер 25 июля 2006 года, похоронен на кладбище в Колодищах.",
+                        "en": "He died on July 25, 2006, and was buried at the Kolodishchi cemetery."
+                    }
+                }
+            ],
+            "photos": [
+                "http://visualrian.ru/images/old_preview/8/93/89324_preview.jpg",
+                "https://nlb.by/upload/iblock/852/85226c9dfcdd46a22e6ee77257329eee.jpg",
+                "http://kamunikat.org/assets/images/20087-1.jpg"
+            ],
+            "video": "aT3yJEpQlW4",
+            "location": "!1m18!1m12!1m3!1d85463.36478185134!2d30.6068521481257!3d46.448926073397246!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40c6318a0b864c43%3A0x129f8fe28cf2176c!2sOdesa%2C%20Odessa%20Oblast%2C%20Ukraine%2C%2065000!5e0!3m2!1sen!2sby!4v1621797988301!5m2!1sen!2sby"
+        },
+        {
+            "id": 2,
+            "longDescription": {
+                "ru": "Михал (Михаил) Тихонович Лыньков (30 ноября 1899, д. Зазыбы, ныне Лиозненский район, Витебская область — 21 сентября 1975, Минск) — белорусский писатель, народный писатель БССР (1962).",
+                "en": "Michal (Mikhas) Tsikhanavich Lynkoy (30 listapada 1899, V. Zazyby, tsyaper Leznensky Raen, Vicebskaya voblast — 21 verasnya 1975, Minsk) — Belarusian pismennik, Narodny pismennik BSSR (1962)."
+            },
+            "bio": [
+                {
+                    "date": "30.11.1899",
+                    "title": {
+                        "ru": "Рождение",
+                        "en": "Birth"
+                    },
+                    "text" : {
+                        "ru": "Родился в семье железнодорожника 30 ноября 1899 года. Окончил Старосельское народное училище, Рогачевскую учительскую семинарию (1917).",
+                        "en": "He was born in the family of a railway worker on November 30, 1899. He graduated from the Staroselsky Public School, Rogachev Teachers ' Seminary (1917)."
+                    }
+                },
+                {
+                    "date": "1919-1926",
+                    "title": {
+                        "ru": "Первые публикации",
+                        "en": "First publications"
+                    },
+                    "text" : {
+                        "ru": "Дебютировал стихотворением в 1919 году (Смоленская газета «Борьба»), первые рассказы — в 1926 году (Бобруйская газета «Коммунист» и сборник Бобруйского филиала «молодняка» — «Уздым»).",
+                        "en": "He made his debut with a poem in 1919 (the Smolensk newspaper \"Struggle\"), the first stories — in 1926 (the Bobruisk newspaper \"Communist\" and the collection of the Bobruisk branch of \"Molodnyaka\" — \"Uzdym\")."
+                    }
+                },
+                {
+                    "date": "1926-1975",
+                    "title": {
+                        "ru": "Творческая деятельность",
+                        "en": "Creative activity"
+                    },
+                    "text" : {
+                        "ru": "1925-28 гг. - ответственный секретарь редакции, заместитель редактора, в 1928-30 гг. - редактор Бобруйской окружной газеты \"Коммунист\". Был организатором и руководителем Бобруйского филиала «молодняка», одним из руководителей БелАПП. Работал в государственном издательстве БССР (1930-32 гг.), секретарем оргкомитета (1932-34 гг.), главным редактором журнала \" Пламя революции \"(1933-41 гг.), председателем правления Союза писателей БССР (1938-48 гг.). Участник похода Красной Армии в Западную Беларусь (1939), редактировал газету \"Белорусская звезда\" - орган политуправления Белорусского фронта. В 1941-42 гг. - редактор фронтовой газеты \" За Советскую Беларусь \" (выходила на Западном, Центральном и Брянском фронтах). В 1943-46 гг. и 1949-52 гг. - директор Института литературы, языка и искусства АН БССР.",
+                        "en": "1925-28-executive secretary of the editorial office, deputy editor, in 1928-30 - editor of the Bobruisk district newspaper \"Communist.\" He was the organizer and head of the Bobruisk branch of \"molodnyaka\", one of the leaders of BelAPP. He worked in the state publishing house of the BSSR (1930-32), secretary of the organizing committee (1932-34), editor-in-chief of the magazine \" Flame of the Revolution \"(1933-41), chairman of the board of the BSSR Writers ' Union (1938-48). He participated in the Red Army campaign in Western Belarus (1939), edited the newspaper \"Belorusskaya Zvezda\" - the political management body of the Belarusian Front. In 1941-42. - Editor of the front-line newspaper \" For Soviet Belarus \"(published on the Western, Central and Bryansk fronts). In 1943-46 and 1949-52-Director of the Institute of Literature, Language and Art of the Academy of Sciences of the BSSR."
+                    }
+                },
+                {
+                    "date": "21.09.1975",
+                    "title": {
+                        "ru": "Смерть",
+                        "en": "Death"
+                    },
+                    "text" : {
+                        "ru": "Умер 21 сентября 1975 года. Похоронен в Минске на Восточном кладбище.",
+                        "en": "He died on September 21, 1975. He was buried in Minsk at the Eastern Cemetery."
+                    }
+                }
+            ],
+            "photos": [
+                "https://narbel.bsu.by/wp-content/uploads/2019/01/17.-М.-Лынькоў.-1959-г.-1068x1699.jpg",
+                "https://cdn1.ozone.ru/multimedia/1005569905.jpg",
+                "https://vsr.mil.by/wp-content/uploads/2018/09/векапомныя-дни.jpg"
+            ],
+            "video": "CBv6OGXSt78",
+            "location": "!1m18!1m12!1m3!1d24769.79054798064!2d30.336398484799293!3d55.03809357294998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46c564a27487ad47%3A0x30c08547f7121b45!2z0JfQsNC30YvQsdGLIDIsIFphenlieSAy!5e0!3m2!1sen!2sby!4v1621799263523!5m2!1sen!2sby"
+        },
+        {
+            "id": 3,
+            "longDescription": {
+                "ru": "Ива́н Па́влович Ме́леж (белор. Іван Паўлавіч Мележ; 8 февраля 1921, дер. Глинище Хойникского района Гомельская область — 9 августа 1976, Минск) — белорусский советский прозаик, драматург, публицист. Народный писатель Белорусской ССР (1972). Лауреат Литературной премии им. Якуба Коласа (1962). Лауреат Ленинской премии (1972). Лауреат Государственной премии Белорусской ССР им. Якуба Коласа (1976). Член Союза Писателей СССР (1945).",
+                "en": "Ivan Pavlovich Melezh (belor. Ivan Pailavich Melezh; February 8, 1921, der. Glinishche (Khoiniksky District, Gomel Oblast — August 9, 1976, Minsk) was a Belarusian Soviet novelist, playwright, and publicist. People's Writer of the Belarusian SSR (1972). Winner of the Literary Prize named after him. Yakub Kolas (1962). Winner of the Lenin Prize (1972). Laureate of the State Prize of the Byelorussian SSR. Yakub Kolas (1976). Member of the Union of Writers of the USSR (1945)."
+            },
+            "bio": [
+                {
+                    "date": "08.02.1921",
+                    "title": {
+                        "ru": "Рождение",
+                        "en": "Birth"
+                    },
+                    "text" : {
+                        "ru": "Иван Мележ родился 8 февраля 1921 года в крестьянской семье: отец — Павел Фёдорович, мать — Мария Денисовна. В 1938 году с отличием окончил школу в Хойниках, работал в Хойникском райкоме комсомола. В 1939 году поступил в Московский институт философии, литературы и истории, на первом курсе был призван в Красную армию.",
+                        "en": "Ivan Melezh was born on February 8, 1921 in a peasant family: father-Pavel Fedorovich, mother-Maria Denisovna. In 1938, he graduated with honors from the school in Khoyniki, worked in the Khoynik district committee of the Komsomol. In 1939, he entered the Moscow Institute of Philosophy, Literature and History, and in his first year was drafted into the Red Army."
+                    }
+                },
+                {
+                    "date": "1940-1945",
+                    "title": {
+                        "ru": "Война",
+                        "en": "War"
+                    },
+                    "text" : {
+                        "ru": "Летом 1940 года принимал участие в присоединении Бессарабии и Буковины. Во время Великой Отечественной войны воевал под Николаевом, Лозовой, Ростовом-на-Дону, в 1941 году был ранен. В 1942 окончил курсы политработников и был откомандирован в 51-ю стрелковую дивизию сотрудником газеты.",
+                        "en": "In the summer of 1940, he took part in the annexation of Bessarabia and Bukovina. During the Great Patriotic War, he fought at Nikolayev, Lozova, Rostov-on-Don, and was wounded in 1941. In 1942, he graduated from the courses of political workers and was seconded to the 51st Rifle Division as a newspaper employee."
+                    }
+                },
+                {
+                    "date": "1939-1976",
+                    "title": {
+                        "ru": "Творчество",
+                        "en": "Creative activity"
+                    },
+                    "text" : {
+                        "ru": "В 1939 г. было опубликовано первое стихотворение И. Мележа «Радзіме». Перед войной его стихи печатались в газетах «Літаратура і мастацтва», «Бальшавік Палесся», в 1943 г. в «Бугурусланской правде». Первые рассказы написал в тбилисском госпитале. В 1945 г. в газете «Звязда» вышел рассказ «Сустрэча ў шпіталі». В 1946 году издан первый сборник рассказов «У завіруху». В 1948 г.",
+                        "en": "in 1939, the first poem by I. Melezh \"Radzime\" was published. Before the war, his poems were published in the newspapers \"Litaratura I mastatstva\", \"Balshavik Palessia\", in 1943 in \"Buguruslanskaya Pravda\". He wrote his first stories at the Tbilisi hospital. In 1945, the newspaper Zvyazda published the story \"Sustracha shpitali\". In 1946, the first collection of short stories \"in a blizzard\"was published. In 1948"   
+                    }
+                },
+                {
+                    "date": "09.07.1976",
+                    "title": {
+                        "ru": "Смерть",
+                        "en": "Death"
+                    },
+                    "text" : {
+                        "ru": "Иван Мележ умер от сердечного приступа. Похоронен на Восточном кладбище Минска.",
+                        "en": "Ivan Melezh died of a heart attack. He was buried in the Eastern Cemetery of Minsk."
+                    }
+                }
+            ],
+            "photos": [
+                "https://briefly.ru/static/cache/authors/480/melezh.jpeg?1585372748",
+                "https://s4-goods.ozstatic.by/2000/46/442/10/10442046_0.jpg",
+                "http://goub.by/wp-content/uploads/2021/02/19.jpg"
+            ],
+            "video": "I-0ezESiCCw",
+            "location": "!1m18!1m12!1m3!1d19678.20735844378!2d29.642264028443368!3d51.938040701309546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46d5e15170d07bdf%3A0xcbd67c7879bdbb75!2sGlinishche!5e0!3m2!1sen!2sby!4v1621848707330!5m2!1sen!2sby"
+        },
+        {
+            "id": 4,
+            "longDescription": {
+                "ru": "Ива́н Петро́вич Шамя́кин (белор. Iван Пятровіч Шамякін; 30 января 1921 — 14 октября 2004, Минск) — белорусский советский писатель, сценарист и драматург, общественный деятель. Герой Социалистического Труда (1981). Народный писатель Белорусской ССР (1972). Лауреат Сталинской премии третьей степени (1951). Член ВКП(б) с 1943 года. Академик Национальной академии наук Беларуси (1994).",
+                "en": "Ivan Petrovich Shamyakin (belor. Ivan Pyatrovich Shamyakin (January 30, 1921-October 14, 2004, Minsk) was a Belarusian Soviet writer, screenwriter and playwright, and a public figure. Hero of Socialist Labor (1981). People's Writer of the Belarusian SSR (1972). Winner of the Stalin Prize of the third degree (1951). Member of the CPSU (b) since 1943. Academician of the National Academy of Sciences of Belarus (1994)."
+            },
+            "bio": [
+                {
+                    "date": "30.01.1921",
+                    "title": {
+                        "ru": "Рождение",
+                        "en": "Birth"
+                    },
+                    "text" : {
+                        "ru": "Родился 30 января 1921 года в деревне Корма Гомельского уезда Гомельской губернии (ныне Добрушского района Гомельской области Беларуси) в крестьянской семье. В 1936 году окончил семь классов Маковской школы, продолжил учёбу в Гомельском техникуме строительных материалов (1936—1940). По окончании техникума работал техником-технологом кирпичного завода в Белостоке. Ещё в техникуме начал писать стихи, участвовал в заседаниях литературного объединения при газете «Гомельская правда».",
+                        "en": "He was born on January 30, 1921 in the village of Korma, Gomel Uyezd, Gomel province (now Dobrushsky District, Gomel Region, Belarus) in a peasant family. In 1936, he graduated from seven classes of the Makovskaya School, and continued his studies at the Gomel Technical School of Building Materials (1936-1940). After graduating from the technical school, he worked as a technician-technologist of a brick factory in Bialystok. While still at the technical school, he began to write poetry, participated in meetings of the literary association of the newspaper \"Gomelskaya Pravda\"."
+                    }
+                },
+                {
+                    "date": "1941-1945",
+                    "title": {
+                        "ru": "Война",
+                        "en": "War"
+                    },
+                    "text" : {
+                        "ru": "В 1940 году был призван в РККА, проходил службу в Мурманске в зенитно-артиллерийской части, в 1944 передислоцирован в Польшу, принимал участие в Висло-Одерской операции и в Берлинской наступательной операции в составе прожекторной роты 16.04.1945. Во время Великой Отечественной войны командир орудийного расчёта, комсорг дивизиона.",
+                        "en": "In 1940, he was drafted into the Red Army, served in Murmansk in an anti-aircraft artillery unit, in 1944 he was relocated to Poland, took part in the Vistula-Oder operation and in the Berlin Offensive operation as part of the searchlight company 16.04.1945. During the Great Patriotic War, the commander of the gun crew, the Komsomol division."
+                    }
+                },
+                {
+                    "date": "1945-2004",
+                    "title": {
+                        "ru": "Творчество",
+                        "en": "Create Activity"
+                    },
+                    "text" : {
+                        "ru": "В 1944 году написал рассказ на белорусском языке «У снежнай пустыні» (опубликован в 1946 году). Первым крупным произведением И. П. Шамякина была повесть «Помста», опубликованная в 1946 году в белорусском журнале «Полымя». В 1957 году появляется роман о жизни сельской интеллигенции под названием «Криницы» (белор. «Крыніцы»), экранизированный режиссёром Иосифом Шульманом на киностудии Беларусьфильм (1964).",
+                        "en": "In 1944, he wrote a short story in the Belarusian language \"U snezhnai pustyni\" (published in 1946). The first major work of I. P. Shamyakin was the novel \"Pomsta\", published in 1946 in the Belarusian magazine \"Polymya\". In 1957, a novel about the life of rural intellectuals called \"Krinitsy\" (belor. \"Krynitsy\"), adapted by director Joseph Shulman at the Belarusfilm film studio (1964)."
+                    }
+                },
+                {
+                    "date": "14.10.2004",
+                    "title": {
+                        "ru": "Смерть",
+                        "en": "Death"
+                    },
+                    "text" : {
+                        "ru": "Скончался 14 октября 2004 года в Минске. Похоронен на Восточном кладбище.",
+                        "en": "He died on October 14, 2004 in Minsk. He was buried in the Eastern Cemetery."
+                    }
+                }
+            ],
+            "photos": [
+                "http://biblio.bru.by/wp-content/uploads/2021/01/000027_30F46A882718009843257F480022BD45_724352.jpg",
+                "https://pinsklib.by/wp-content/uploads/2021/01/4-3.jpg",
+                "https://s5-goods.ozstatic.by/2000/949/969/10/10969949_0.jpg"
+            ],
+            "video": "ddMAfJFjzew",
+            "location": "!1m18!1m12!1m3!1d19149.345106416004!2d30.786523481452257!3d53.134102615832106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46d15ea311f018f1%3A0xeace274f75f888ec!2sKarma!5e0!3m2!1sen!2sby!4v1621850343961!5m2!1sen!2sby"
+        },
+        {
+            "id": 5,
+            "longDescription": {
+                "ru": "Андре́й Его́рович Макаёнок (белор. Андрэй Ягоравіч Макаёнак; 12 ноября 1920 — 16 ноября 1982, Минск) — белорусский советский драматург, сценарист. Народный писатель Белорусской ССР (1977). Член ВКП(б) с 1945 года.",
+                "en": "Andrey Yegorovich Makayenok (belor. Andrei Yagoravich Makayenak( 12 November 1920-16 November 1982, Minsk) was a Belarusian Soviet playwright and screenwriter. People's Writer of the Belarusian SSR (1977). Member of the CPSU (b) since 1945."
+            },
+            "bio": [
+                {
+                    "date": "12.11.1920",
+                    "title": {
+                        "ru": "Рождение",
+                        "en": "Birth"
+                    },
+                    "text" : {
+                        "ru": "Родился 12 ноября 1920 года в деревне Борхов (белор. Борхаў) (ныне Рогачёвский район, Гомельская область, Белоруссия) в крестьянской семье. Отец, Егор Сергеевич Макаёнок, был организатором первых колхозов; мать — Мелания Михайловна Макаёнок. В 1927 году поступил в Борховскую начальную школу, продолжил учёбу в Журавичской средней школе, которую окончил в 1938 году.",
+                        "en": "Born on November 12, 1920 in the village of Borkhov (Belor. Borkhay) (now Rogachevsky district, Gomel region, Belarus) in a peasant family. His father, Yegor Sergeevich Makayenok, was the organizer of the first collective farms; his mother, Melania Mikhailovna Makayenok. In 1927, he entered the Borovskaya primary School, continued his studies at the Zhuravichy Secondary School, from which he graduated in 1938."
+                    }
+                },
+                {
+                    "date": "1941-1945",
+                    "title": {
+                        "ru": "Война",
+                        "en": "War"
+                    },
+                    "text" : {
+                        "ru": "В первые месяцы войны участвовал в иранской операции, затем воевал на Северном Кавказе, участвовал в Керченско-Феодосийском десанте в Крыму. 10 апреля 1942 года получил тяжёлое ранение, перенёс несколько операций, и по состоянию здоровья был демобилизован. В 1942—1943 годах работал военруком в одном из сёл Грузии. В конце 1943 года, после освобождения Гомельской области, вернулся в село Журавичи.",
+                        "en": "In the first months of the war, he participated in the Iranian operation, then fought in the North Caucasus, participated in the Kerch-Feodosian landing in the Crimea. On April 10, 1942, he was seriously wounded, underwent several operations, and was discharged for health reasons. In 1942-1943, he worked as a military instructor in one of the villages of Georgia. At the end of 1943, after the liberation of the Gomel region, he returned to the village of Zhuravichi."
+                    }
+                },
+                {
+                    "date": "1946-1982",
+                    "title": {
+                        "ru": "Творчество",
+                        "en": "Create activity"
+                    },
+                    "text" : {
+                        "ru": "Комедия «Лявоніха на арбіце» (на основе которой сделан радиоспектакль 1960-х годов). Комедия «Святая простота». Комедия «Таблетку под язык». Пьеса «Трибунал». Трагикомедия «Затюканный апостол»",
+                        "en": "The comedy \"Lyavonikha na arbitsa\" (based on which the radio play of the 1960s was made). The comedy \"Holy Simplicity\". Comedy \"A pill under the tongue\". The play \"The Tribunal\". Tragicomedy \"Zatyukanny apostol\""
+                    }
+                },
+                {
+                    "date": "16.11.1982",
+                    "title": {
+                        "ru": "Смерть",
+                        "en": "Death"
+                    },
+                    "text" : {
+                        "ru": "Умер 16 ноября 1982 года[3]. Похоронен в Минске на Восточном кладбище.",
+                        "en": "He died on November 16, 1982. [3] He was buried in Minsk at the Eastern Cemetery."
+                    }
+                }
+            ],
+            "photos": [
+                "https://fb.ru/media/i/2/0/4/3/0/4/0/i/2043040.jpg",
+                "https://pinsklib.by/wp-content/uploads/2020/11/image.jpg",
+                "http://theatre.moy.su/_ld/9/974.jpg"
+            ],
+            "video": "Trx9656ii9A",
+            "location": "!1m18!1m12!1m3!1d4779.816754836614!2d30.39003702813051!3d53.20155936979553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46d14769f2f47899%3A0x95bc37f2ff250700!2sBorkhov!5e0!3m2!1sen!2sby!4v1621850950773!5m2!1sen!2sby"
+        }
+    ]
+}

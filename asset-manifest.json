@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/RPI_lab3/static/css/main.ea26e0e7.chunk.css",
+    "main.js": "/RPI_lab3/static/js/main.5b0446c7.chunk.js",
+    "main.js.map": "/RPI_lab3/static/js/main.5b0446c7.chunk.js.map",
+    "runtime-main.js": "/RPI_lab3/static/js/runtime-main.700eb8ac.js",
+    "runtime-main.js.map": "/RPI_lab3/static/js/runtime-main.700eb8ac.js.map",
+    "static/css/2.9419749d.chunk.css": "/RPI_lab3/static/css/2.9419749d.chunk.css",
+    "static/js/2.c4c0cd0d.chunk.js": "/RPI_lab3/static/js/2.c4c0cd0d.chunk.js",
+    "static/js/2.c4c0cd0d.chunk.js.map": "/RPI_lab3/static/js/2.c4c0cd0d.chunk.js.map",
+    "index.html": "/RPI_lab3/index.html",
+    "static/css/2.9419749d.chunk.css.map": "/RPI_lab3/static/css/2.9419749d.chunk.css.map",
+    "static/css/main.ea26e0e7.chunk.css.map": "/RPI_lab3/static/css/main.ea26e0e7.chunk.css.map",
+    "static/js/2.c4c0cd0d.chunk.js.LICENSE.txt": "/RPI_lab3/static/js/2.c4c0cd0d.chunk.js.LICENSE.txt",
+    "static/media/getFetch.cjs": "/RPI_lab3/static/media/getFetch.582d29c4.cjs",
+    "static/media/nikita-icon.d2f1b068.jpg": "/RPI_lab3/static/media/nikita-icon.d2f1b068.jpg",
+    "static/media/vlad-icon.9034cdfe.jpg": "/RPI_lab3/static/media/vlad-icon.9034cdfe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.700eb8ac.js",
+    "static/css/2.9419749d.chunk.css",
+    "static/js/2.c4c0cd0d.chunk.js",
+    "static/css/main.ea26e0e7.chunk.css",
+    "static/js/main.5b0446c7.chunk.js"
+  ]
+}

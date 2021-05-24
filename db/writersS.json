@@ -1,0 +1,88 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "name": {
+                "ru": "Василь Владимирович Быков",
+                "en": "Vasil Uladzimiravich Bykov"
+            },
+            "dob": "19.05.1924",
+            "dod": "22.05.2003",
+            "description": {
+                "ru": "Белорусский писатель, сценарист, журналист, политик.",
+                "en": "Belarusian writer, screenwriter, journalist, politician."
+            },
+            "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Vasil_Bykov.jpg"
+        },
+        {
+            "id": 1,
+            "name": {
+                "ru": "Янка Брыль",
+                "en": "Yanka Bryl"
+            },
+            "dob": "22.06.1917",
+            "dod": "25.06.2006",
+            "description": {
+                "ru": "Белорусский писатель, детский писатель, прозаик, переводчик.",
+                "en": "Belarusian writer, children's writer, novelist, translator."
+            },
+            "photoUrl": "https://www.belta.by/uploads/lotus/news/000027_C98176F052699271432581710024A4D9_94758.jpg"
+        },
+        {
+            "id": 2,
+            "name": {
+                "ru": "Михаил Лыньков",
+                "en": "Mikhail Lynkov"
+            },
+            "dob": "30.11.1899",
+            "dod": "21.09.1975",
+            "description": {
+                "ru": "Белорусский писатель, литературовед, Народный писатель БССР (1962).",
+                "en": "Belarusian writer, literary critic, People's Writer of the BSSR (1962)."
+            },
+            "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Micha%C5%9B_%C5%81y%C5%84ko%C5%AD._%D0%9C%D1%96%D1%85%D0%B0%D1%81%D1%8C_%D0%9B%D1%8B%D0%BD%D1%8C%D0%BA%D0%BE%D1%9E_%281926%29.jpg"
+        },
+        {
+            "id": 3,
+            "name": {
+                "ru": "Иван Павлович Мележ",
+                "en": "Ivan Pavlovich Melezh"
+            },
+            "dob": "08.02.1921",
+            "dod": "09.07.1976",
+            "description": {
+                "ru": "Белорусский прозаик, драматург, публицист. Народный писатель Беларуси (1972).",
+                "en": "Belarusian novelist, playwright, publicist. People's Writer of Belarus (1972)."
+            },
+            "photoUrl": "https://cdn11.img.sputnik.by/images/102735/65/1027356568.jpg"
+        },
+        {
+            "id": 4,
+            "name": {
+                "ru": "Иван Петрович Шамякин",
+                "en": "Ivan Petrovich Shamyakin"
+            },
+            "dob": "30.01.1921",
+            "dod": "14.10.2004",
+            "description": {
+                "ru": "Белорусский писатель, публицист, драматург, литературный критик, сценарист, редактор.",
+                "en": "Belarusian writer, publicist, playwright, literary critic, screenwriter, editor, politician."
+            },
+            "photoUrl": "https://narbel.bsu.by/wp-content/uploads/2019/12/43.-1.jpg"
+        },
+        {
+            "id": 5,
+            "name": {
+                "ru": "Андрей Егорович Макаёнок",
+                "en": "Andrey Egorovich Makayonak"
+            },
+            "dob": "12.11.1920",
+            "dod": "16.11.1982",
+            "description": {
+                "ru": "Белорусский писатель, драматург, дипломат.",
+                "en": "Belarusian writer, playwright, diplomat."
+            },
+            "photoUrl": "https://www.nlb.by/upload/iblock/9b1/af_makajonak.jpg"
+        }
+    ]
+}

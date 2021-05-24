@@ -1,0 +1,25 @@
+
+{
+    "navbar": {
+        "writers": "Writers",
+        "daily": "Writer of the Day",
+        "devs": "Developers"
+    },
+
+    "landing": {
+        "label": "Writers of Belarus",
+        "desc": "On this site you can get acquainted with the best writers of Belarus",
+        "button": "Writers list",
+        "writerLink": "Learn more",
+        "writerOTD": "Writer of the day"
+    },
+    
+    "writers": {
+        "search": "Search",
+        "main": "Preview",
+        "bio": "Biography",
+        "photos": "Gallery",
+        "video": "Video",
+        "map": "Location"
+    }
+}

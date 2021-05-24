@@ -6,16 +6,11 @@ import {
 } from "react-router-dom";
 import Home from "./components/Home";
 import Writers from "./components/Writers";
-
-const Loader = () => (
-    <div>
-        Loading
-    </div>
-);
+import { Spinner } from "react-bootstrap";
 
 function App() {
     return (
-        <Suspense fallback={<Loader />}>
+        <Suspense fallback={<Spinner animation="border" />}>
             <Router basename={process.env.PUBLIC_URL}>
                 <Switch>
                     <Route exact path="/" component={Home} />

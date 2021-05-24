@@ -7,10 +7,10 @@ export default function useDBService(jsonFileName) {
     useEffect(() => {
         fetch(process.env.PUBLIC_URL + "/db/" + jsonFileName)
             .then(res => res.json())
-            .then(dat => {
-                if (dat === undefined) throw new Error(jsonFileName + " was not found");
-                if (!dat.hasOwnProperty("data")) throw new Error("Invalid file format " + jsonFileName);
-                db.current = dat.data;
+            .then(jsonObj => {
+                if (jsonObj === undefined) throw new Error(jsonFileName + " was not found");
+                if (!jsonObj.hasOwnProperty("data")) throw new Error("Invalid file format " + jsonFileName);
+                db.current = jsonObj.data;
                 setLoaded(true);
             });
     }, []);
@@ -35,9 +35,9 @@ export default function useDBService(jsonFileName) {
     function getKey(element, key) {
         let keys = key.split('.');
         let temp = element;
-        keys.forEach(sub => {
-            if (temp.hasOwnProperty(sub)) {
-                temp = temp[sub];
+        keys.forEach(subKey => {
+            if (temp.hasOwnProperty(subKey)) {
+                temp = temp[subKey];
             } else {
                 temp = null;
                 return;

@@ -1,9 +1,7 @@
 
 {
     "navbar": {
-        "writers": "Writers",
-        "daily": "Writer of the Day",
-        "devs": "Developers"
+        "writers": "Writers"
     },
 
     "landing": {
@@ -15,11 +13,6 @@
     },
     
     "writers": {
-        "search": "Search",
-        "main": "Preview",
-        "bio": "Biography",
-        "photos": "Gallery",
-        "video": "Video",
-        "map": "Location"
+        "search": "Search"
     }
 }

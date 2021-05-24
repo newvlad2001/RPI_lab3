@@ -5,7 +5,6 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import useTranslator from "../services/Translator"
 import "./home.css";
 import { Link } from "react-router-dom";
-import { HashLink } from "react-router-hash-link";
 import WriterOTD from "./WriterOTD";
 import VladIcon from "../res/vlad-icon.jpg";
 import NikitaIcon from "../res/nikita-icon.jpg";
@@ -46,12 +45,10 @@ export default function Home() {
     return (
         <>
             <Navbar bg="light" expand="lg">
-                <HashLink className="navbar-brand" smooth to="#land">Belarusian Writers</HashLink>
+                <Link className="navbar-brand" to="/">Belarusian Writers</Link>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="ml-auto">
-                        <HashLink className="nav-link" smooth to="#daily">{t("navbar.daily")}</HashLink>
-                        <HashLink className="nav-link" smooth to="#devs">{t("navbar.devs")}</HashLink>
                         <Link className="nav-link" to="/Writers">{t("navbar.writers")}</Link>
                         <ChangeLang />
                     </Nav>

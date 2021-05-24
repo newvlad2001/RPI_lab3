@@ -6,7 +6,6 @@ import useTranslator from "../services/Translator";
 import useDBService from "../services/DBService";
 import WritersList from "./WritersList";
 import { ChangeLang } from "./Home";
-import { HashLink } from "react-router-hash-link";
 import WriterInfo from "./WriterInfo";
 
 export default function Writers() {
@@ -26,7 +25,7 @@ export default function Writers() {
     return (
         <>
             <Navbar bg="light" expand="lg">
-                <HashLink className="navbar-brand" smooth to="/">Belarusian Writers</HashLink>
+                <Link className="navbar-brand" to="/">Belarusian Writers</Link>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="ml-auto">
@@ -39,13 +38,7 @@ export default function Writers() {
                                         placeholder={t("writers.search")} />
                                 </InputGroup>
                             ) : (
-                                <>
-                                    <HashLink className="nav-link" smooth to="#bio">{t("writers.bio")}</HashLink>
-                                    <HashLink className="nav-link" smooth to="#photos">{t("writers.photos")}</HashLink>
-                                    <HashLink className="nav-link" smooth to="#video">{t("writers.video")}</HashLink>
-                                    <HashLink className="nav-link" smooth to="#map">{t("writers.map")}</HashLink>
-                                    <Link className="nav-link" to="/Writers">{t("navbar.writers")}</Link>
-                                </>
+                                <Link className="nav-link" to="/Writers">{t("navbar.writers")}</Link>
                             )
                         }
                         <ChangeLang />
